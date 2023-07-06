@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Franklin0603
+- 👋 Hi, I’m Franklin
 - 👀 I’m interested in Cloud computing and data engineering
 - 🌱 I’m currently learning AWS and data engineering
-- 💞️ I’m looking to collaborate on Machine Leaning and  Artificial Intelligence
+- 💞️ I’m looking to collaborate on Machine Learning and  Artificial Intelligence
 - 📫 How to reach me franklin.ajisogun03@gmail.com
 
 <!---
