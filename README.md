@@ -3,12 +3,31 @@ About Me:
 <h1 align="center">Hi, I’m Franklin 👋</h1>
 <h3 align="center">Passionate about Generative AI & LLM and Software and Data Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Franklin0603&label=Profile%20views&color=0e75b6&style=flat" alt="Franklin0603" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Franklin0603&label=Profile%20views&color=0e75b6&style=flat" alt="Franklin0603" />
+</p>
 
-- 👀 I’m interested in **LLM and Software and Data Engineering**
-- 🌱 I’m currently learning **LLM & Prompt engineering and Backend & Data Engineering**
-- 💞️ Looking to collaborate on **Data analytics, Data engineering and KPI Metrics**
-- 📫 How to reach me: **franklin.ajisogun03@gmail.com**
+<p align="left">
+  <a href="https://www.linkedin.com/in/franklin-ajisogun-925170144/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Franklin's LinkedIn Profile" />
+  </a>
+</p>
+
+<h3 align="left">Career Highlights:</h3>
+<ul>
+  <li>👀 I’m interested in LLM and Software and Data Engineering</li>
+  <li>🌱 I’m currently learning LLM & Prompt engineering and Backend & Data Engineering</li>
+  <li>💞️ Looking to collaborate on Data analytics, Data engineering, and KPI Metrics</li>
+  <li>💬 Ask me about Data engineering, Data analytics, Data Storytelling, LLM Chatbot,...</li>
+  <li>📫 How to reach me: franklin.ajisogun03@gmail.com</li>
+</ul>
+
+<h3 align="left">Top 3 Projects:</h3>
+<ul>
+  <li><a href="https://www.datascienceportfol.io/franklin03/projects/0">Frankie Lighting Bulbs Revenue Dashboard</a></li>
+  <li><a href="https://www.datascienceportfol.io/franklin03/projects/1">Market Research ChatGPT Web Application</a></li>
+  <li><a href="https://github.com/Franklin0603/covid-etl">Covid ETL Project</a></li>
+</ul>
 
 <h3 align="left">Skills:</h3>
 <ul>
@@ -20,11 +39,14 @@ About Me:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/franklin-ajisogun-925170144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Franklin Ajisogun's LinkedIn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@franklinajisogun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Franklin Ajisogun's YouTube" height="30" width="40" /></a>
-<a href="https://medium.com/@franklin.ajisogun03" target="blank">Medium</a>
+  <a href="https://www.linkedin.com/in/franklin-ajisogun-925170144/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Franklin Ajisogun's LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@franklinajisogun" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Franklin Ajisogun's YouTube" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@franklin.ajisogun03" target="blank">Medium</a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
