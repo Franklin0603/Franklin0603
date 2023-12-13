@@ -1,7 +1,7 @@
 About Me:
 
 <h1 align="center">Hi, I’m Franklin 👋</h1>
-<h3 align="center">Passionate about Generative AI & LLM and Software and Data Engineering</h3>
+<h3 align="center">Passionate about Generative AI & LLM and Software & Data Engineering</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Franklin0603&label=Profile%20views&color=0e75b6&style=flat" alt="Franklin0603" />
